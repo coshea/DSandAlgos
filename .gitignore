@@ -99,3 +99,7 @@ ENV/
 
 # mypy
 .mypy_cache/
+.idea/DSandAlgos.iml
+.idea/misc.xml
+.idea/modules.xml
+.idea/workspace.xml
